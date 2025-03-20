@@ -1,5 +1,5 @@
 LIVE DEMO
-You can view the live version of the project here: [Deployed Link](https://your-deployed-link.com)
+You can view the live version of the project here: [Deployed Link](https://rejo132.github.io/ramen-rating-app/)
 
 
 DESCRIPTION
