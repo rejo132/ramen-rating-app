@@ -44,7 +44,7 @@ API or backend errors: Check your server logs for error details to troubleshoot.
 If these steps don't help, feel free to open an issue on the repository.
 
 AUTHORS
-Rejo132 - Your GitHub Profile
+rejo132
 
 VERSION HISTORY
 0.1 - Initial release with basic ramen rating functionality.
